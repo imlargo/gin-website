@@ -8,7 +8,7 @@ Gin is a web framework written in Go (Golang). It features a martini-like API wi
 
 In this section we will walk through what Gin is, what problems it solves, and how it can help your project.
 
-Or, if you are ready to use Gin in to your project, visit the [Quickstart](https://gin-gonic.com/docs/quickstart/).
+Or, if you are ready to use Gin in to your project, visit the [Quickstart](https://gin-gonic.com/en/docs/quickstart/).
 
 ## Features
 
@@ -43,4 +43,4 @@ Gin provides an easy to use API for JSON, XML and HTML rendering.
 
 ### Extendable
 
-Creating a new middleware is so easy, just check out the sample codes.
+Creating a new middleware is so easy, just check out the sample code.
